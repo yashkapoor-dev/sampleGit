@@ -1,3 +1,3 @@
-sampleGit
+# sampleGit
 
-YashKapoor is learning git forking and pull requests
+YashKapoor is learning git forking and pull requests.
